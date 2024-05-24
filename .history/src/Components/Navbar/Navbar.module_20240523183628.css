@@ -1,0 +1,21 @@
+.transparentBackground {
+    background-color: transparent !important;
+  }
+  
+  .liftUp {
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .liftUp:hover {
+    transform: translateY(-5px);
+  }
+  
+  .customNavbar {
+    /* Add any other custom styles for your navbar here */
+  }
+  
+  .customButton {
+    /* Add any other custom styles for your button here */
+  }
+  

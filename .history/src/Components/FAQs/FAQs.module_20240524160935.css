@@ -1,0 +1,49 @@
+.parentdiv{
+   background:#000000e0;
+}
+.container{
+   width:1000px;
+   margin: 0 auto;
+    
+}
+
+.faqh1{
+   color:white;
+   font-size: 3rem;
+   font-weight: 900;
+   padding-left: 524px;
+   padding-right: 524px;
+   padding-bottom: 20px;
+   padding-top: 32px;
+}
+.SignUpBtn{
+   background: red;
+   color: white;
+   height: 40px;
+   width: 143px;
+   margin: 4px;
+   /* border-radius: 7px; */
+   border: none;
+   font-size: larger;
+}
+
+.SignupText{
+   color: white;
+   padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 18px;
+    
+}
+
+.SignupForm{
+   width: 284px;
+   height: 42px;
+   background: #e2dfdf;
+   align-items:center;
+   justify-content: center;
+}
+.signupwithbtn{
+   display: flex;
+    flex-direction: row;
+   
+}

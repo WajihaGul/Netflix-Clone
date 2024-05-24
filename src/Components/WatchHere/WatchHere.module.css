@@ -1,0 +1,17 @@
+.wcontainer{
+    background: black;
+    color: white;
+    width: 100%;
+    height: 387px;
+    padding-bottom: 82px;
+    padding-top: 75px;
+    padding-left: 536px;
+    padding-right: 536px;
+}
+
+.Watchhead1{
+    font-size: 67px;
+}
+.Watchhead3{
+    width: 480px;
+}

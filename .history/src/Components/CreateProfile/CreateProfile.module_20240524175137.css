@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background: black;
+}
+.Profileimg{
+
+}
+
+.Profilediv{
+    color:white
+}

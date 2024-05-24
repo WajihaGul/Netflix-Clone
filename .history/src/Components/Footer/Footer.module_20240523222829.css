@@ -1,0 +1,7 @@
+ul{
+    list-style: none;
+}
+.FooterHere{
+    display: flex;
+    flex-direction: column;
+}
