@@ -5,18 +5,13 @@
     background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/a99688ca-33c3-4099-9baa-07a2e2acb398/0279102c-4f3f-4ed2-a283-cce57434d595/PK-en-20240520-popsignuptwoweeks-perspective_alpha_website_large.jpg);
 }
 .navdiv{
-    
+    display: flex;
+    flex-direction: column;
 
 }
 
 .navbtn {
-    background: red;
-    color: white;
-    height: 35px;
-    width: 98px;
-    border-color: transparent;
-    border-radius: 8px;
-
+   
 }
 
 .navstyle{

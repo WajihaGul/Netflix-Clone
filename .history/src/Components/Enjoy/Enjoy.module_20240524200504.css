@@ -1,0 +1,7 @@
+.container{
+    background:black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    width: 100%;
+}

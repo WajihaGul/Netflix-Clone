@@ -9,10 +9,8 @@ const Downloads = () => {
         />
       </div>
       <div className={styles.Dtext}>
-        <h1 className={styles.Dhead1}>Download your shows to watch offline </h1>
-        <h2 className={styles.Dhead2}>
-          Save your favorites easily and always have something to watch.
-        </h2>
+        <h1>Download your shows to watch offline </h1>
+        <h2>Save your favorites easily and always have something to watch.</h2>
       </div>
     </div>
   );

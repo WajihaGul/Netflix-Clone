@@ -19,13 +19,13 @@ const FAQs = () => {
                 aria-expanded="false"
                 aria-controls="flush-collapseOne"
                 style={{
-                  backgroundColor: "rgb(55, 55, 55)",
-                  color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
+                  background-color: rgb(55, 55, 55);
+    color: white;
+    height: 75px;
+    font-size: x-large;
                 }}
               >
-                What is Netflix?
+                What is Netflix
               </button>
             </h2>
             <div
@@ -38,8 +38,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "211px",
-                  fontSize: "x-large",
                 }}
               >
                 Netflix is a streaming service that offers a wide variety of
@@ -63,8 +61,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
                 }}
               >
                 How much does Netflix cost?
@@ -80,8 +76,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "157px",
-                  fontSize: "x-large",
                 }}
               >
                 Watch Netflix on your smartphone, tablet, Smart TV, laptop, or
@@ -102,8 +96,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
                 }}
               >
                 Where can I watch?
@@ -119,8 +111,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "250px",
-                  fontSize: "x-large",
                 }}
               >
                 Watch anywhere, anytime. Sign in with your Netflix account to
@@ -146,8 +136,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
                 }}
               >
                 How do I cancel?
@@ -163,8 +151,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "132px",
-                  fontSize: "x-large",
                 }}
               >
                 Netflix is flexible. There are no pesky contracts and no
@@ -186,8 +172,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
                 }}
               >
                 What can I watch on Netflix?
@@ -203,8 +187,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "103px",
-                  fontSize: "x-large",
                 }}
               >
                 Netflix has an extensive library of feature films,
@@ -225,8 +207,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "75px",
-                  fontSize: "x-large",
                 }}
               >
                 Is Netflix good for kids?
@@ -242,8 +222,6 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "175px",
-                  fontSize: "x-large",
                 }}
               >
                 The Netflix Kids experience is included in your membership to

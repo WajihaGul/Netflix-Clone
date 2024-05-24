@@ -203,7 +203,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "103px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -242,7 +242,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "175px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >

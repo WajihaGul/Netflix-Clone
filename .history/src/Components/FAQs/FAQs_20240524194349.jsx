@@ -242,7 +242,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "175px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >

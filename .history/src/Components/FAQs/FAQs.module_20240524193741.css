@@ -1,9 +1,11 @@
 .parentdiv{
-   background:black;
+   background:#000000e0;
 }
 .container{
    width:1000px;
    margin: 0 auto;
+   padding-bottom: 28px;
+    padding-top: 28px;
 }
 
 .faqh1{
@@ -47,8 +49,7 @@
    justify-content: center;
 }
 .signupwithbtn{
-   display: flex;
-   flex-direction: row;
    justify-content: center;
-   padding-bottom: 17px;
+        display: flex;
+      flex-direction: row;
 }

@@ -14,15 +14,10 @@ function App() {
       <SignupHere />
       <Header />
       <Enjoy />
-      <Header />
       <Downloads />
-      <Header />
       <WatchHere />
-      <Header />
       <CreateProfile />
-      <Header />
       <FAQs />
-      <Header />
       <Footer />
     </>
   );

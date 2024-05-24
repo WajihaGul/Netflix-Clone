@@ -38,7 +38,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "211px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -80,7 +80,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "157px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -119,7 +119,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "250px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -163,7 +163,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "132px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -203,7 +203,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "103px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
@@ -242,7 +242,7 @@ const FAQs = () => {
                 style={{
                   backgroundColor: "rgb(55, 55, 55)",
                   color: "white",
-                  height: "175px",
+                  height: "75px",
                   fontSize: "x-large",
                 }}
               >
